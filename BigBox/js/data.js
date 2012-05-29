@@ -16,7 +16,7 @@ _DATA={
 			emissive: 0xaa6666,
 			ambient: 0xff7777,
 			shininess: 50,
-			diffuse: "res/texture/solar_atmos_1024.jpg"
+			diffuse: "res/texture/solar_atmos_1024.jpg" 
 		},
 		spontlight: {
 			distance: 5000,
